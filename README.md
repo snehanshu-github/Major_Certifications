@@ -22,4 +22,4 @@ These certifications involved formal examinations and assessments, validating my
 📫 Contact - 
 If someone wants to verify or know more:
 
-For queries or certificate verification, feel free to connect with me on my gmail me at kumarsnehanshu25@gmail.com
+For queries or certificate verification, feel free to connect with me on my gmail me at kumarsnehanshu25@gmail.com or on my linkedin - https://www.linkedin.com/in/kumar-snehanshu-8921122a3/
