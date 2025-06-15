@@ -4,7 +4,7 @@ This document highlights the major certification courses I have undertaken durin
 
 🧠 Concept-Learning Certifications - 
 
-These are the certifications I pursued to deepen my understanding of various domains and technologies :-
+These are the certifications I pursued to deepen my understanding of various domains and technologies:-
 1) IBM Blockchain Developer course
 2) IBM Devops Fundamentals (2) course
 3) IBM Agile Methodologies course
@@ -14,7 +14,7 @@ These are the certifications I pursued to deepen my understanding of various dom
 
 📝 Exam-Cleared Certifications -
 
-These certifications involved formal examinations and assessments, validating my skills through recognized platforms :-
+These certifications involved formal examinations and assessments, validating my skills through recognized platforms:-
 1) Cloud Computing Certificate - NPTEL ( Elite + Silver certificate )
 2) Marketing Analytics Certificate - NPTEL ( Elite certificate )
 3) The Bits And Bytes Of Computer Networking
